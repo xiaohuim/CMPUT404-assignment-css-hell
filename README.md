@@ -1,3 +1,12 @@
+Part 1
+======
+Modifications made to the project gutenberg HTML files:
+* Changed paragraphs font to serif
+* Changed headers font to fantasy and changed the size of h1, h2, h3, h4 and h5
+* Changed images opacity to 0.5. Hover over images will show the images with 1.0 opacity
+* Changed the font and style of image captions
+* Added background images with fabric/paper effect
+
 Assignment: CSS Hell
 ====================
 
@@ -20,5 +29,3 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
-
-
