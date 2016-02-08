@@ -1,0 +1,45 @@
+p {
+  font-family: serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: fantasy;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+
+.caption {
+  font-family: monospace;;
+  font-style: italic;
+}
+
+body {
+  background-image: url(tile.jpg);
+  background-repeat: repeat;
+}
